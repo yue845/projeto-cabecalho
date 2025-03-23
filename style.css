@@ -56,7 +56,6 @@ header {
     box-shadow: 0 2px 5px var(--roxinho);
     min-width: 190px;
     z-index: 1;
-    left: 10px;
     top: 100%;
     border-radius: 5px;
 }
