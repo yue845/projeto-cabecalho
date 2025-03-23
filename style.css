@@ -17,6 +17,7 @@ header {
 .menu-materias {
     width: 15%;
     display: inline-block;
+    justify-content: center;
 }
 
 .botao-materias {
