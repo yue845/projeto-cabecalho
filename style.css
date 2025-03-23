@@ -39,6 +39,11 @@ header {
     border-radius: 5px;
 }
 
+.menu a {
+    text-decoration: none;
+    color: black;
+}
+
 #menu-toggle {
     display: none;
 }
