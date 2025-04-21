@@ -105,6 +105,7 @@ h1 {
     display: flex;
     justify-content: left;
     padding: 20px;
+    font-size: 50px;
 }
 
 p, h2 {
