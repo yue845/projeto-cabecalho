@@ -114,3 +114,8 @@ p {
 .comeco a {
     color: orange
 }
+
+img {
+    justify-content: center;
+    width: 50%;
+}
