@@ -109,7 +109,7 @@ h1 {
 
 p, h2 {
     display: flex;
-    justify-content: center;
+    justify-content: left;
 }
 
 .comeco a {
