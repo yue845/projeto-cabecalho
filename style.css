@@ -101,13 +101,14 @@ li {
     list-style: none;
 }
 
-h1, h2 {
+h1 {
+    font-size: 60px;
     display: flex;
     justify-content: center;
     padding: 50px;
 }
 
-p {
+h2, p {
     display: flex;
     justify-content: center;
 }
