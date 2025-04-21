@@ -101,20 +101,18 @@ li {
     list-style: none;
 }
 
-h1 {
-    font-size: 50px;
+h1, h2 {
     display: flex;
     justify-content: center;
-    padding: 50px;
 }
 
-h2, p {
+p {
     display: flex;
     justify-content: center;
 }
 
 .comeco a {
-    color: var(--roxo)
+    color: orange
 }
 
 img {
