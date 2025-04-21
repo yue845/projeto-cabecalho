@@ -113,7 +113,7 @@ p, h2 {
 }
 
 .comeco a {
-    color: var(--lilas);
+    color: plum;
     display: flex;
     justify-content: left;
     padding: 20px;
