@@ -103,13 +103,13 @@ li {
 
 h1 {
     display: flex;
-    justify-content: center;
+    justify-content: left;
     padding: 20px;
 }
 
 p, h2 {
     display: flex;
-    justify-content: left;
+    justify-content: center;
 }
 
 .comeco a {
