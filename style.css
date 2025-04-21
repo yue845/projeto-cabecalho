@@ -116,5 +116,7 @@ p {
 }
 
 img {
-    
+    display: flex;
+    width: 70%;
+    margin: auto;
 }
