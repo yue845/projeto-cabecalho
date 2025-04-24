@@ -132,5 +132,5 @@ img {
     width: 80%;
     background-color: var(--lilas);
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 2 3 10px;
 }
