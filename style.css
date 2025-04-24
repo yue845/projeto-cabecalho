@@ -159,6 +159,10 @@ img {
     box-shadow: 0 0 10px gray;
 }
 
+.trabalhos li {
+    margin: 10px auto;
+}
+
 .provas {
     padding: 20px;
     margin: 50px auto;
