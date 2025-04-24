@@ -146,9 +146,9 @@ img {
     box-shadow: 0 0 10px gray;
 }
 
-.atividades li {
+.bagulho li {
     list-style: circle;
-    margin: 20px auto;
+    margin: 20px;
 }
 
 .trabalhos {
