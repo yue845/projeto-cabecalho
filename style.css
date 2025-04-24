@@ -172,3 +172,11 @@ img {
     border-radius: 10px;
     box-shadow: 0 0 10px gray;
 }
+
+.rodape {
+        width: 100%;
+        display: block;
+        grid-template-columns: 20% 80%;
+        justify-content: center;
+        background-color: var(--roxo);
+    }
