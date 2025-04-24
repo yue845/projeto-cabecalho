@@ -139,16 +139,20 @@ img {
 
 .atividades {
     padding: 20px;
-    margin: 20px auto;
+    margin: 50px auto;
     width: 80%;
     background-color: var(--lilas);
     border-radius: 8px;
     box-shadow: 0 0 10px gray;
 }
 
+.atividades ul {
+    margin: 10px auto;
+}
+
 .trabalhos {
     padding: 20px;
-    margin: 20px auto;
+    margin: 50px auto;
     width: 80%;
     background-color: var(--lilas);
     border-radius: 8px;
@@ -157,7 +161,7 @@ img {
 
 .provas {
     padding: 20px;
-    margin: 20px auto;
+    margin: 50px auto;
     width: 80%;
     background-color: var(--lilas);
     border-radius: 8px;
