@@ -175,7 +175,7 @@ img {
 
 .rodape {
         display: grid;
-        grid-template-columns: 80% 20%;
+        grid-template-columns: 20% 80%;
         align-items: center;
         background-color: var(--roxo);
 }
