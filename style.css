@@ -175,11 +175,11 @@ img {
 
 .rodape {
         display: grid;
-        grid-template-columns: 20% 80%;
+        grid-template-columns: 10% 90%;
         align-items: center;
         background-color: var(--roxo);
 }
 
 footer img {
-    width: 30%;
+    width: 25%;
 }
