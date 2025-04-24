@@ -58,7 +58,6 @@ header {
     z-index: 1;
     top: 100%;
     border-radius: 5px;
-    margin: 0;
 }
 
 .listinha a {
@@ -80,6 +79,11 @@ header {
 
 #menu-toggle:checked + .botao-materias {
     background-color: white;
+}
+
+ul {
+    padding: 0;
+    margin: auto;
 }
 
 .pesquisa {
