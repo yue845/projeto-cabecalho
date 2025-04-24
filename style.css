@@ -134,3 +134,21 @@ img {
     border-radius: 8px;
     box-shadow: 0 0 10px gray;
 }
+
+.trabalhos {
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    background-color: var(--lilas);
+    border-radius: 8px;
+    box-shadow: 0 0 10px gray;
+}
+
+.provas {
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    background-color: var(--lilas);
+    border-radius: 8px;
+    box-shadow: 0 0 10px gray;
+}
