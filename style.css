@@ -132,5 +132,5 @@ img {
     width: 80%;
     background-color: var(--lilas);
     border-radius: 8px;
-    box-shadow: 2 3 10px var(--roxo);
+    box-shadow: 0 0 10px var(--roxo);
 }
