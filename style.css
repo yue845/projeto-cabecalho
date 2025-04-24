@@ -174,8 +174,13 @@ img {
 }
 
 .rodape {
+        width: 100%;
         display: block;
         grid-template-columns: 20% 80%;
         justify-content: center;
         background-color: var(--roxo);
+}
+
+footer img {
+    width: 10%;
 }
